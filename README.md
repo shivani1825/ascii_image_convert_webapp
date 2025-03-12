@@ -72,3 +72,4 @@ Navigate to `http://127.0.0.1:5000/` in your browser.
 
 ---
 
+🔗 **Check out my LinkedIn post for more details:** [LinkedIn Post](https://www.linkedin.com/posts/sai-shivani-k_python-flask-asciiart-activity-7305519504569049088-fYM9?utm_source=share&utm_medium=member_desktop&rcm=ACoAADrojogBVw8NklMaB5iloGRPM4w30qqai80) 🚀
