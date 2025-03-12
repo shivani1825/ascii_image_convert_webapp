@@ -8,7 +8,7 @@ app = Flask(__name__)
 UPLOAD_FOLDER = "static"
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 
-ASCII_CHARS = "@#$%?*+;:,.!"
+ASCII_CHARS = "@#$%?*+;:,.!&"
 
 def image_to_ascii(image_path, width=100, contrast_factor=1.5):
     img = Image.open(image_path)
